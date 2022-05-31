@@ -1,4 +1,4 @@
-pyrogram
+pyrogram==1.4.0
 feedparser
 apscheduler==3.8.0
 psycopg2-binary
